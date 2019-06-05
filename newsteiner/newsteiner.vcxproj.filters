@@ -15,37 +15,37 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="smp.cpp">
+    <ClInclude Include="ncallback.h">
       <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="readers.h">
+    </ClInclude>
+    <ClInclude Include="ngraph.h">
       <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="seperation.cpp">
+    </ClInclude>
+    <ClInclude Include="nreaders.h">
       <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="main.cpp">
+    </ClInclude>
+    <ClInclude Include="nseparation.h">
       <Filter>Source Files</Filter>
-    </ClCompile>
+    </ClInclude>
+    <ClInclude Include="nsmp.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ntype.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="nunionfind.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="type.h">
+    <ClCompile Include="nmain.cpp">
       <Filter>Source Files</Filter>
-    </ClInclude>
-    <ClInclude Include="smp.h">
+    </ClCompile>
+    <ClCompile Include="nseperation.cpp">
       <Filter>Source Files</Filter>
-    </ClInclude>
-    <ClInclude Include="graph.h">
+    </ClCompile>
+    <ClCompile Include="nsmp.cpp">
       <Filter>Source Files</Filter>
-    </ClInclude>
-    <ClInclude Include="separation.h">
-      <Filter>Source Files</Filter>
-    </ClInclude>
-    <ClInclude Include="callback.h">
-      <Filter>Source Files</Filter>
-    </ClInclude>
-    <ClInclude Include="unionfind.h">
-      <Filter>Source Files</Filter>
-    </ClInclude>
+    </ClCompile>
   </ItemGroup>
 </Project>
