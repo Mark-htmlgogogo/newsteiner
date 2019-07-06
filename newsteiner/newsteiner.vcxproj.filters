@@ -47,5 +47,8 @@
     <ClCompile Include="nsmp.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ngraph.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

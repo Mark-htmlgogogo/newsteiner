@@ -28,6 +28,7 @@
     <ClInclude Include="nunionfind.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="ngraph.cpp" />
     <ClCompile Include="nmain.cpp" />
     <ClCompile Include="nseperation.cpp" />
     <ClCompile Include="nsmp.cpp" />
